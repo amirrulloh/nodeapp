@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Simple knowledgebase app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirrulloh/nodeapp.git"
+  },
+  "author": "Amirrulloh A.K.A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirrulloh/nodeapp/issues"
+  },
+  "homepage": "https://github.com/amirrulloh/nodeapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
